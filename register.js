@@ -1,4 +1,4 @@
-function registera(login, password) {
-    return 'Account:' + ''+ login +  '' + '' + password + '' + 'was created';
+function register(login, password) {
+    return 'Account:' + ' ' + login + ' ' + ' ' + password + ' ' + 'was created';
 }
         
